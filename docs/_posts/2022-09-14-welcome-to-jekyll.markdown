@@ -26,8 +26,9 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 Hi Kat, Sophie and Heather.
 
-[website]: https://alliancecan.ca/
+[Main Website][alliance-website]
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+[alliance-website]: https://alliancecan.ca/
